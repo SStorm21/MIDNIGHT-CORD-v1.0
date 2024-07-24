@@ -21,6 +21,6 @@ REM BFCPEWINDOWWIDTH=80
 REM BFCPEWTITLE=Window Title
 REM BFCPEOPTIONEND
 @echo off
+title MIDNIGHT-CORD-v1.0
 echo installin...
 pip install -r requirements.txt
-pause
