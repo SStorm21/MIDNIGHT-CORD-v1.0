@@ -41,8 +41,10 @@ This feature is not compatible with **languages that are written from right to l
 * Sindhi (سنڌي)
 
 >
-
- There are three simple methods for deletion
+>
+<p align= "center">  <img  src="https://imgur.com/NBAOfHK.png">
+  
+There are three simple methods for deletion
 
 > Instant Delete:
 >   Type your message and choose to activate hyper mode **depending on your network speed.**
@@ -71,6 +73,8 @@ This feature is not compatible with **languages that are written from right to l
 
  <h5 align="center">  🖥️ API Send & Deletion 🖥️
  </h5>
+ 
+<p align= "center">  <img  src="https://imgur.com/hUReFsN.png">
 
 This feature is compatible any language 
 
