@@ -108,4 +108,3 @@ pip install -r requirements.txt
 > 
 
 This program is still in the beta phase of development.
-btw that's a trolling tool
