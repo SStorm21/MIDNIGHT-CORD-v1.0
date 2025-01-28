@@ -1,4 +1,3 @@
-<p align= "center">  <img  src="https://imgur.com/FV6Wr3i.png"> 
 
 >  🔴 ⚠️ Vital Precautions to Consider Before Utilizing the Tool ⚠️ 🔴
 
@@ -13,20 +12,17 @@ the following resource:
 
   Discord Support Article: Automated User Accounts & Self-BotsAdditionally, individuals who have encountered account suspension due to similar violations have shared their experiences here: GitHub Discussion: Accounts Suspended for API Misuse"([ Got my account suspended #273 (discussion) ](https://github.com/victornpb/undiscord/discussions/273))
 
-
-
-<p align= "center">  <img  src="https://imgur.com/AVYV6pZ.png">
-
-
-
  <h1 align="center"> MIDNIGHT CORD</h1>
 
  <h5 align="center">  A Python-based tool designed for swift message deletion on Discord. It offers two primary functionalities: direct API interaction and automated deletion.
  </h5>
 
 
- <h5 align="center">  🤖 Automated Deletion 🤖
- </h5>
+ <h5 align="left">  🤖 Automated Deletion 🤖 </h5>
+ 
+![Image](https://github.com/user-attachments/assets/8f75f98a-1e50-495b-ae91-e3aa9b5454bf)
+
+
 
 This feature is not compatible with **languages that are written from right to left** such as :
 > 
@@ -39,10 +35,6 @@ This feature is not compatible with **languages that are written from right to l
 * Kurdish (کوردی)
 * Pashto (پښتو)
 * Sindhi (سنڌي)
-
->
->
-<p align= "center">  <img  src="https://imgur.com/NBAOfHK.png">
   
 There are three simple methods for deletion
 
@@ -71,10 +63,9 @@ There are three simple methods for deletion
 
 >
 
- <h5 align="center">  🖥️ API Send & Deletion 🖥️
- </h5>
+ <h5 align="left">  🖥️ API Send & Deletion 🖥️ </h5>
  
-<p align= "center">  <img  src="https://imgur.com/hUReFsN.png">
+![Image](https://github.com/user-attachments/assets/9a22620b-4858-459a-b0bb-871200f9f0d1)
 
 This feature is compatible any language 
 
@@ -97,13 +88,14 @@ Navigate to Settings > Troubleshoot.
 
 
 
-### install requirements.txt
+### install requirements.txt 
 
 ```shell
 
 pip install -r requirements.txt
 
 ```
+### or you can run the install.bat to install the requirements
 
 > 
 
