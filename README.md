@@ -45,21 +45,15 @@ There are three simple methods for deletion
 
 * If hyper mode is active, deletion occurs after 0.4 seconds.
 
-
-
 > Auto-delete:
 > Set a timer, then hit start.
 
  * Send your message, and it will vanish after the specified time.
 
-
-
 > Bulk Deletion:
 
 * Adjust the slider to select the number of messages to delete.
 * Press start to initiate the deletion process.
-
-
 
 >
 
@@ -77,16 +71,10 @@ This feature is compatible any language
 
 The message will be sent and instantly deleted.
 
-
-
 * Encountering issues with the tool? 
 
 Navigate to Settings > Troubleshoot.
 ⚠️ This action will uninstall and reinstall all necessary components for the tool's operation. ⚠️
-
-
-
-
 
 ### install requirements.txt 
 
@@ -96,7 +84,8 @@ pip install -r requirements.txt
 
 ```
 ### or you can run the install.bat to install the requirements
+### or just watch [install & run](https://youtu.be/yMKZfRoSwd4)
 
-> 
+>
 
 This program is still in the beta phase of development.
